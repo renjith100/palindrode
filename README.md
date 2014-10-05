@@ -24,4 +24,4 @@ _(Nothing yet)_
 
 ## License
 Copyright (c) 2014
-Licensed under the MIT license..
+Licensed under the MIT license..,
